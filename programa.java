@@ -6,8 +6,8 @@ public class programa {
         // ex03.executar();
         // ex04.executar();
         // ex05.executar();
-        ex06.executar();
-
+        // ex06.executar();
+        ex07.executar();
 
 
 
